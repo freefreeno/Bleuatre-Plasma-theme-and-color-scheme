@@ -21,6 +21,3 @@ The Plasma theme matches all three and is transparent
 
 ![Screenshot_20190501_152742](https://user-images.githubusercontent.com/41884680/57041751-9c670680-6c28-11e9-8a53-a0a7e2c6d913.png)
 
-![Screenshot_20190501_152827](https://user-images.githubusercontent.com/41884680/57041752-9c670680-6c28-11e9-83c7-d1378208853c.png)
-
-
