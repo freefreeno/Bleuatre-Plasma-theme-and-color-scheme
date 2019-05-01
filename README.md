@@ -10,6 +10,8 @@ https://www.opendesktop.org/p/1301692
 Wallapers in screenshots are from Charlie Henson here:
 https://www.pling.com/u/charlie-henson
 
+The Plasma theme matches all three and is transparent
+
 
 ![Screenshot_20190501_152624](https://user-images.githubusercontent.com/41884680/57041746-9bce7000-6c28-11e9-934b-d2efdc304eeb.png)
 
@@ -21,4 +23,4 @@ https://www.pling.com/u/charlie-henson
 
 ![Screenshot_20190501_152827](https://user-images.githubusercontent.com/41884680/57041752-9c670680-6c28-11e9-83c7-d1378208853c.png)
 
-![Screenshot_20190501_152918](https://user-images.githubusercontent.com/41884680/57041754-9c670680-6c28-11e9-9725-721a9cee4a44.png
+
