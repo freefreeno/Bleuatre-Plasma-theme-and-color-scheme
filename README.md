@@ -9,3 +9,16 @@ https://www.opendesktop.org/p/1301692
 
 Wallapers in screenshots are from Charlie Henson here:
 https://www.pling.com/u/charlie-henson
+
+
+![Screenshot_20190501_152624](https://user-images.githubusercontent.com/41884680/57041746-9bce7000-6c28-11e9-934b-d2efdc304eeb.png)
+
+![Screenshot_20190501_152718](https://user-images.githubusercontent.com/41884680/57041748-9bce7000-6c28-11e9-9ba3-e7b57629d7be.png)
+
+![Screenshot_20190501_152732](https://user-images.githubusercontent.com/41884680/57041750-9c670680-6c28-11e9-9d35-bc3e69403d7c.png)
+
+![Screenshot_20190501_152742](https://user-images.githubusercontent.com/41884680/57041751-9c670680-6c28-11e9-8a53-a0a7e2c6d913.png)
+
+![Screenshot_20190501_152827](https://user-images.githubusercontent.com/41884680/57041752-9c670680-6c28-11e9-83c7-d1378208853c.png)
+
+![Screenshot_20190501_152918](https://user-images.githubusercontent.com/41884680/57041754-9c670680-6c28-11e9-9725-721a9cee4a44.png
